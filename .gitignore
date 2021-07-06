@@ -1,0 +1,10 @@
+/.idea
+out/
+
+.gradle
+**/build/
+!src/**/build/
+!gradle-wrapper.jar
+
+*.log
+hs_err_pid*
